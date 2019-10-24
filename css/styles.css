@@ -3,3 +3,8 @@
   background-color: yellowgreen;
   max-width: 300px;
 }
+
+.image {
+  float: left;
+  border-radius: 8px;
+}
