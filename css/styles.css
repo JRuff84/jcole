@@ -1,0 +1,5 @@
+.side-bar {
+  float: right;
+  background-color: yellowgreen;
+  max-width: 300px;
+}
